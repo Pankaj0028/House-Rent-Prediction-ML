@@ -1,0 +1,1 @@
+Machine Learning helps predict how much rent a house or apartment might cost based on things like location, size, and features. With the right data and tools, real estate websites can suggest homes that fit a person’s budget. I hope you enjoyed learning how we can use Python and Machine Learning to make this possible
